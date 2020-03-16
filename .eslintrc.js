@@ -43,6 +43,8 @@ module.exports = {
     'react/prefer-stateless-function': 'off',
     'import/prefer-default-export': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'no-underscore-dangle': 'off',
+    'camelcase': 'off',
   },
   settings: {
     "import/resolver": {
