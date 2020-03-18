@@ -26,9 +26,13 @@
   <a href="#information_source-executar">Executar</a>
 </p>
 
-![App Screenshot](https://res.cloudinary.com/andersonsts/image/upload/v1584477440/home_ckrkdf.png)
+![App Screenshot](https://res.cloudinary.com/andersonsts/image/upload/v1584551132/signin_b3whgz.png)
 
-![App Screenshot4](https://res.cloudinary.com/andersonsts/image/upload/v1584477440/cart_xgns8o.png)
+![App Screenshot2](https://res.cloudinary.com/andersonsts/image/upload/v1584551132/signup_u9h2b8.png)
+
+![App Screensht3](https://res.cloudinary.com/andersonsts/image/upload/v1584551132/dashboard_wo68et.png)
+
+![App Screenshot4](https://res.cloudinary.com/andersonsts/image/upload/v1584551132/profileb_ngavmh.png)
 
 ## :rocket: Tecnologias
 
