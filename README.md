@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="GoBarber" src="https://res.cloudinary.com/andersonsts/image/upload/v1584495130/barber_uoxxvt.png" />
     <br />
-    GoBarber
+    GoBarber - React
 </h1>
 
 <h4 align="center">
@@ -42,14 +42,15 @@ Este projeto foi desenvolvido no [Bootcamp GoStack - Rocketseat](https://rockets
 -  [History](https://www.npmjs.com/package/history)
 -  [Immer](https://github.com/immerjs/immer)
 -  [Polished](https://polished.js.org/)
+-  [Rocketseat/unform](https://github.com/Rocketseat/unform)
 -  [React-Toastify](https://fkhadra.github.io/react-toastify/)
+-  [React-Perfect-Scrollbar](https://github.com/goldenyz/react-perfect-scrollbar)
 -  [styled-components](https://www.styled-components.com/)
 -  [React-Icons](https://react-icons.netlify.com/)
--  [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)
--  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
--  [json-server](https://github.com/typicode/json-server)
 -  [Reactotron](https://infinite.red/reactotron)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+-  [Date-fns](https://date-fns.org/v1.30.1)
+-  [Yup](https://github.com/jquense/yup)
+-  [VS Code][vc] com [EditorConfig][vceditconfig], [ESLint][vceslint] e [Prettier](https://github.com/prettier/prettier-eslint)
 
 ## :bookmark_tabs: Requisitos
 Antes de executar a aplicação, insira em seu terminal o comando abaixo para iniciar
@@ -66,10 +67,10 @@ Para clonar e executar essa aplicação você precisa do [Git](https://git-scm.c
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/andersonsts/react-rocketshoes
+$ git clone https://github.com/andersonsts/gobarber-react
 
 # Entre no repositorio
-$ cd react-rocketshoes
+$ cd gobarber-react
 
 # Instale as dependências
 $ yarn install
