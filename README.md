@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  :barber: Sistema para agendamento de serviçoes de beleza
+  :barber: Sistema para agendamento de serviços de beleza
 </h4>
 
 <p align="center">
